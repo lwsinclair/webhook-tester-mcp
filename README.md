@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/alimo7amed93-webhook-tester-mcp-badge.png)](https://mseep.ai/app/alimo7amed93-webhook-tester-mcp)
+
 # 🚀 Webhook Tester MCP Server
 
 A powerful and modular FastMCP server for interacting with webhook-test.com, designed to automate and manage Webhook tokens (URLs), inspect incoming requests, and perform analytics — all without writing custom API integrations.
